@@ -2,7 +2,7 @@
 Python project that analyzes a real time-footage using image processing, to detect objects using a machine learning algorithm to be applied in a industry to detect the use of security equipment.
 
 ## Introduction
-This programa analyzes either a video or a web-cam to recognize if there are any person in the footage, and if those persons are using security equipment, which is reduced to only a security helmet. 
+This programa analyzes either a video or a web-cam to recognize if there are any person in the footage, and if those persons are using security equipment, which is reduced to only a security helmet. There is a video calles "Video demostración.mp4" with the result, next to the program with the main algorithm.
 
 ## How it works
 
